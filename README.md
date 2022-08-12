@@ -1,2 +1,2 @@
 # pyda
-"Python for DA" learning course
+"Python for Data Analitics" learning course
