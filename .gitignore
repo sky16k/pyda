@@ -129,3 +129,4 @@
 # .pyre/
 
 .ipynb_checkpoints/
+.gitignore.swp
